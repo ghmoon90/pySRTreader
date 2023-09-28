@@ -2,9 +2,9 @@
 
 read dji srt of mavic 3 file, and parse in dat format by using python packages.
 Example srt file is from
-https://github.com/JuanIrache/dji-srt-viewer \
 
-https://github.com/JuanIrache/DJI_SRT_Parser\
+`https://github.com/JuanIrache/dji-srt-viewer
+`https://github.com/JuanIrache/DJI_SRT_Parser
 
 # dependancy 
 - python           3.8.0
